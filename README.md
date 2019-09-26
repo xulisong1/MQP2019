@@ -21,8 +21,13 @@ In this section, we will get familiar with python language with Jupyter notebook
 - linear algebra with tensorflow package - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linalg_tf.ipynb)
 - linear regression with pytorch - [ipynb](https://github.com/songqsh/foo1/blob/master/src/linreg_torch_v01.ipynb)
 - experiments to some polynomial functions - [ipynb](other/linearfunction01.ipynb)
+- learning linear function - [ipynb](Nick/Copy_of_linearfunction01.ipynb)
+- learning quadratic function - [doc](Pavee/test%20run.pdf)
 
+## Financial pricing engines
 
+- A short descriptions and todo list on CRR model - [pdf](doc/prj_crr.pdf)
+- Wrap up - [pdf](Vital/MQP19Draft1_Vital.pdf)
 
 ## References:
 
@@ -33,3 +38,4 @@ In this section, we will get familiar with python language with Jupyter notebook
 - [Reinforcement learning by Sutton, Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - [Deep BSDE by Quentin Chan](https://gitlab.com/14chanwa/ml_for_semilinear_pdes)
 - [Deep BSDE paper by Pham](https://arxiv.org/abs/1902.01599)
+- [Universal approximation theorem](doc/HSW90.pdf)
